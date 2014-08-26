@@ -1,0 +1,15 @@
+body {
+	background-color: #f2eee4;
+	color: #fafafa;
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100px;
+	position: fixed;
+	right: 30px;
+	bottom: 20px;
+}
