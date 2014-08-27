@@ -11,5 +11,6 @@ img {
 
 h1 {
 	text-align: center;
-	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
