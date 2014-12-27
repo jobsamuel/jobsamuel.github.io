@@ -1,15 +1,31 @@
 body {
-	background-color: #f2eee4;
-	color: #5F5D5C;
+	background-color: #C2185B;
+	color: #FFF;
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
-h1 {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	
-	position: fixed;
-	right: 30px;
-	bottom: 20px;
+.info {
+	margin-top: 15em;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
 }
+
+.social {
+	margin: 0.5em;
+	color: #FFF;
+}
+
+.social:hover {
+	color: #FFC107;
+}
+
+a:link {
+	color: ;
+}
+
+a:visited,
+a:active {
+	color: #E91E63;
+}
+
