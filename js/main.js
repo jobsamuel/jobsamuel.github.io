@@ -1,1 +1,1 @@
-// TODO
+console.info("%c\n\nDo you know how to code, don't you?\n\nSend me an email to jobsamuel.nunez@outlook.com,\nand let's the hacking begin.\n\nOr if you're only looking for fun, watch this instead:\nhttps://vine.co/v/MY602mFHjx7\n\n– Jobsamuel\n\n", "font-weight: 300; color: #C2185B; font-size: x-large; font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased;");
